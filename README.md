@@ -1,6 +1,6 @@
 # readme
 
-- My Name:
-- My Date of Birth:
-- My Computer of Choice:
-- My Favorite Movie:
+- My Name: Cierra Strickland
+- My Date of Birth: November 11th, 1997
+- My Computer of Choice: Mac
+- My Favorite Movie: The Lion King
